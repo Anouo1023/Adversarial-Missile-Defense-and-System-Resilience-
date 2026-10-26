@@ -20,9 +20,6 @@
 **有鋪設機場圖，防禦成功**
 [![飛彈防禦，有鋪設機場圖，防禦成功](https://img.youtube.com/vi/NjgICdF_Sy0/hqdefault.jpg)](https://www.youtube.com/watch?v=NjgICdF_Sy0)
 
-</td>
-<td align="center" width="50%">
-
 
 </td>
 </tr>
