@@ -1,4 +1,4 @@
-# Integrating LLMs and Multi-Agent Reinforcement Learning for Adversarial Missile Defense and System Resilience
+# Integrating LLMs and Multi-Agent Reinforcement Learning for Adversarial Missile Defense and System Resilience
 # 融合大語言模型與多智能體強化學習之飛彈防禦與系統韌性研究
 </div>
 
